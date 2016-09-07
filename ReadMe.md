@@ -26,7 +26,7 @@ CairoとPangoを使って文字列にアンチエイリアスをかけて描画�
 
 以下、Antialiasの値を変更して実行したときのキャプチャです。
 
-[Cairo::FontOptions::set_antialias(Antialias antialias)](https://www.cairographics.org/documentation/cairomm/reference/classCairo_1_1FontOptions.html#ac4805f8378e318a2ad52803285b7e7de)|image|
+[Antialias](https://www.cairographics.org/documentation/cairomm/reference/classCairo_1_1FontOptions.html#ac4805f8378e318a2ad52803285b7e7de)|image|
 ----|----|
 ANTIALIAS_DEFAULT|![ANTIALIAS_DEFAULT](https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20160907/20160907093204.png)|
 ANTIALIAS_NONE|![ANTIALIAS_NONE](https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20160907/20160907093137.png)|
